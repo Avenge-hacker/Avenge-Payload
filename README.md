@@ -27,13 +27,10 @@ git clone https://github.com/Avenge-hacker/Avenge-payload.git
 ```
 
 cd Avenge-payload
-chmod +x start.py
-python3 start.py
+chmod +x setup.sh
+./setup.sh
 
 
 ```
 
-# Youtube Channel.
 
-Name: AVENGE-YT
-https://youtube.com/c/Avenge-YT
