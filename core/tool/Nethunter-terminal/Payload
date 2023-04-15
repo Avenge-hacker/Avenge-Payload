@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cd /Avenge-Payload/core/tool/Nethunter-terminal/
+exec python3 starte.py "$@"
